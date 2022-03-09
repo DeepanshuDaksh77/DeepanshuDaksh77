@@ -1,6 +1,6 @@
 ## Hi there  👋Myself Deepanshu
 
-- 🔭 I’m currently working on my web-deb skills 
+- 🔭 I’m currently working on my programming skills 
 - 🌱 I’m currently learning **Frontend Developement**
 - 👯 I’m looking to collaborate on open source projects
 
