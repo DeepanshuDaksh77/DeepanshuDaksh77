@@ -11,7 +11,7 @@
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 
-## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
+## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!!
 > [![image](https://img.shields.io/badge/@DeepanshuDaksh11-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DeepanshuDaks11)
 >  [![image](https://img.shields.io/badge/dakshdeepanshu53@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshdeepanshu53@gmail.com)
 
