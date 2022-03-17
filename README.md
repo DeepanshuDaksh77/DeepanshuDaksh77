@@ -1,8 +1,8 @@
 ## Hi there, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">Myself Deepanshu<img src="https://raw.githubusercontent.com/wp-plugins/language-icons-flags-switcher/master/img/india.png" width="30px">
 
-- 🔭 I’m currently working on  my programming skills 
-- 🌱 I’m currently learning **Frontend Developement**
-- 👯 I’m looking to collaborate on open source projects
+- 🔭 I’m currently working on  my programming skills.
+- 🌱 I’m currently learning **Frontend Developement**.
+- 👯 I’m looking to collaborate on open source projects.
 
 ### Languages and Tools:
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="46" height="46"/> </a>
