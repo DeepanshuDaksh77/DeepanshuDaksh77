@@ -19,8 +19,8 @@
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=DeepanshuDaksh77&show_icons=true&theme=vision-friendly-dark" width=49%/>   <img src="http://github-readme-streak-stats.herokuapp.com?user=DeepanshuDaksh77&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D" width=49%/>
-[![Deepanshu's Github activity graph](https://activity-graph.herokuapp.com/graph?username=DeepanshuDaksh77&theme=redical&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--
+<!--[![Deepanshu's Github activity graph](https://activity-graph.herokuapp.com/graph?username=DeepanshuDaksh77&theme=redical&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 **DeepanshuDaksh77/DeepanshuDaksh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
