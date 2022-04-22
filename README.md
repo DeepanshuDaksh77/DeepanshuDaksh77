@@ -1,8 +1,8 @@
 ## Hi there, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">Myself Deepanshu
 
-- 🔭 I’m currently working on  my programming skills.
-- 🌱 I’m currently learning **Frontend Developement**.
-- 👯 I’m looking to collaborate on open source projects.
+-  I’m currently working on  my programming skills.
+-  I’m currently learning **Frontend Developement**.
+-  I’m looking to collaborate on open source projects.
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
