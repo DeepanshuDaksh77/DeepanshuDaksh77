@@ -1,4 +1,4 @@
-## Hi there, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">Myself Deepanshu
+## Hi there, Myself Deepanshu
 
 -  I’m currently working on  my programming skills.
 -  I’m currently learning **Frontend Developement**.
@@ -14,7 +14,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!!
+### Lets Connect!!
 > [![image](https://img.shields.io/badge/@DeepanshuDaksh11-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DeepanshuDaks11)
 >  [![image](https://img.shields.io/badge/dakshdeepanshu53@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshdeepanshu53@gmail.com)
 
