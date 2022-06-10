@@ -1,7 +1,7 @@
 ## Hi there, Myself Deepanshu
 
 -  I’m currently working on  my programming skills.
--  I’m currently learning **Frontend Developement**.
+-  I’m currently learning **Frontend Developement and Data Science**.
 -  I’m looking to collaborate on open source projects.
 
 ### Languages and Tools:
