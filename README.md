@@ -1,8 +1,6 @@
 ## Hi there, Myself Deepanshu
 
--  I’m currently working on  my programming skills.
--  I’m currently learning **Frontend Developement and Data Science**.
--  I’m looking to collaborate on open source projects.
+-  I’m currently working on  my programming skills.I’m currently learning **Frontend Developement and Data Science**. I’m looking to collaborate on open source projects.
 
 ### Languages and Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
