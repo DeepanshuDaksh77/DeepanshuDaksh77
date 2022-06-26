@@ -1,6 +1,6 @@
 ## Hi there, Myself Deepanshu
 
--  I’m currently  learning **Frontend Developement and Data Science** and I’m looking to collaborate on open source projects.
+-  I’m currently  learning **Frontend Developement ** and I’m looking to collaborate on open source projects.
 
 ### Languages and Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
