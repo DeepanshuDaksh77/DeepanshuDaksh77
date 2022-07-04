@@ -15,7 +15,7 @@
 <!--![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)-->
 <!--![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)-->
 <!--![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)-->
-### Hackathons
+### Hackathons and Events
  <img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/001/827/496/datas/full_width.png" width=27%%>(2022)(https://devpost.com/software/travel-website-ldkzaj#updates)
 
 ### Lets Connect!!
