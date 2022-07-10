@@ -23,8 +23,7 @@
 > [![image](https://img.shields.io/badge/@DeepanshuDaksh11-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DeepanshuDaks11)
 >  [![image](https://img.shields.io/badge/dakshdeepanshu53@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshdeepanshu53@gmail.com)
 
-
-<!--[![Deepanshu's Github activity graph](https://activity-graph.herokuapp.com/graph?username=DeepanshuDaksh77&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+[![Deepanshu's Github activity graph](https://activity-graph.herokuapp.com/graph?username=DeepanshuDaksh77&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--**DeepanshuDaksh77/DeepanshuDaksh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
