@@ -23,8 +23,7 @@
 > [![image](https://img.shields.io/badge/@DeepanshuDaksh11-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DeepanshuDaks11)
 >  [![image](https://img.shields.io/badge/dakshdeepanshu53@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshdeepanshu53@gmail.com)
 
-## My Top Languages 🔼
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuDaksh77&theme=nightowl&langs_count=10)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanshuDaksh77&theme=nightowl&langs_count=10)-->
 ## My Contribution Graph 🙌
 ![](https://activity-graph.herokuapp.com/graph?username=DeepanshuDaksh77&theme=react-dark)
 
